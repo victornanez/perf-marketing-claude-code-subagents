@@ -1,0 +1,4 @@
+# Personal preferences (copy to CLAUDE.local.md; it is gitignored)
+- Reply to me in {{LANGUAGE}}.
+- Keep summaries under 8 lines.
+- I review reports at {{TIME}}; flag anything that needs a decision before then.
