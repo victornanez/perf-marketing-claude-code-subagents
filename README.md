@@ -126,5 +126,5 @@ Ideas and PRs welcome.
 
 ---
 
-Made by **{{Victor_Hernandez}}** · [LinkedIn]({{https://www.linkedin.com/in/victorhb/}})
+Made by **Victor_Hernandez** · [LinkedIn](https://www.linkedin.com/in/victorhb/)
 If this saves you time, a star helps others find it.
