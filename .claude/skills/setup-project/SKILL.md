@@ -1,4 +1,3 @@
-[SKILL.md](https://github.com/user-attachments/files/34940255/SKILL.md)
 ---
 name: setup-project
 description: Interactive onboarding. Interviews the user about their business, discovers their BigQuery ad data through the BigQuery connector, and fills every {{PLACEHOLDER}} in CLAUDE.md, context/ and sql/. Run once after cloning the repo.
