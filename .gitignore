@@ -1,0 +1,12 @@
+# Agent outputs and learnings can contain your business data: never commit them to a public repo
+reports/*
+!reports/.gitkeep
+.claude/agent-memory/
+.claude/agent-memory-local/
+
+# Personal / local settings
+CLAUDE.local.md
+.claude/settings.local.json
+
+# OS
+.DS_Store
